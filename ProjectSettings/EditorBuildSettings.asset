@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/Menus/MainMenu.unity
+    guid: 5df07a4c410e2cf4f81eb7be7852d0af
+  - enabled: 1
+    path: Assets/Game/Scenes/Griz.unity
+    guid: d183f191496cfcc45866ba07aecedd84
+  - enabled: 1
+    path: Assets/Game/Scenes/Home.unity
+    guid: 88463c5b41fab1a4fa07e0c7b8c18668
+  - enabled: 1
+    path: Assets/Game/Scenes/Outside/OutsideHome.unity
+    guid: 74ec7ea47345db847921e5dcf30cb50f
+  - enabled: 1
+    path: Assets/Game/Scenes/Outside/OutsideShop.unity
+    guid: 112e6adee5a361347ae97dc46449adb1
+  - enabled: 1
+    path: Assets/Game/Scenes/Shop.unity
+    guid: 0b4ea81d4e9ea02419b11153a64850e6
+  - enabled: 1
+    path: Assets/Game/Scenes/Library.unity
+    guid: eb0f5bec6adc211418afb1eb15458e88
+  - enabled: 1
+    path: Assets/Game/Scenes/Outside/OutsidePost.unity
+    guid: 903038c60471921478dffb0810edb0a6
+  - enabled: 1
+    path: Assets/Game/Scenes/PostOffice.unity
+    guid: 1539017b0eaa4cd40b45e0b16e230347
+  - enabled: 1
+    path: Assets/Game/Scenes/Factory.unity
+    guid: eb3ca78d15781d945bf0fec2c97f32ae
+  - enabled: 1
+    path: Assets/Game/Scenes/Outside/OutsideAdmin.unity
+    guid: 451abf79887adc64ea3cf03b838c4bca
+  - enabled: 1
+    path: Assets/Game/Scenes/Admin.unity
+    guid: dbeab9881dec1114e94397b2586b4737
+  - enabled: 1
+    path: Assets/Game/Scenes/Outside/OutsideChurch.unity
+    guid: 0353783f90914034a848f876899ea8d3
+  - enabled: 1
+    path: Assets/Game/Scenes/Church.unity
+    guid: 3704e07f39bb87149a1d0c2331e845f2
+  - enabled: 1
+    path: Assets/Game/Scenes/Outside/Escape.unity
+    guid: 84621a689df5aab4e8fe8662ad5f19da
+  - enabled: 1
+    path: Assets/Game/Scenes/Menus/Ending1.unity
+    guid: ceee614bd7488c54c8c1ec454d890ace
+  - enabled: 1
+    path: Assets/Game/Scenes/Menus/Ending2.unity
+    guid: d2a66f939cfcb1e4a89afd05c322cd21
+  - enabled: 1
+    path: Assets/Game/Scenes/Menus/EndMenu.unity
+    guid: 7e46fefbffb77a247a0bdaa1a5e01766
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

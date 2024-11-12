@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e7f9a42a64201247a802b5a093f855e, type: 3}
+  m_Name: Thinking
+  m_EditorClassIdentifier: 
+  <framerate>k__BackingField: 1
+  <frames>k__BackingField:
+  - {fileID: -1488983090, guid: ee6e2817cf9165949a9997841dcb95a8, type: 3}
+  - {fileID: -1294310882, guid: ee6e2817cf9165949a9997841dcb95a8, type: 3}
+  <animationOffset>k__BackingField: {x: 0, y: 0}

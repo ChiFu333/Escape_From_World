@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6364455978257565637
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6364455978257565639}
+  - component: {fileID: 6364455978257565638}
+  m_Layer: 0
+  m_Name: SceneOrganizer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6364455978257565639
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6364455978257565637}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6364455978257565638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6364455978257565637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 351c6868e475fb040bcdddab2da54c9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  managerHolder: {fileID: 0}
+  uiHolder: {fileID: 0}
+  symbolDelay: 0.02
+  inventoryCanvasPrefab: {fileID: 3919893337132096275, guid: f225d21a054ed49448966d78f11ad7e6, type: 3}
+  dialogueCanvasPrefab: {fileID: 9026406183346671335, guid: a18e972a3293f4d47b32b4adc6238b38, type: 3}
+  textPanelPrefab: {fileID: 461639731624153374, guid: 3b5ea1eaf133f65409b87ebc5bce0abd, type: 3}
+  transitionPrefab: {fileID: 2773021528464013762, guid: 09a94fc8513ef8645999777a3db6f1c4, type: 3}
+  audioManager: {fileID: 684253983472289163, guid: 1a08957cfde7eee488e7d72a6c0a10c9, type: 3}
+  startMusic: {fileID: 0}
+  pauseMenu: {fileID: 2588924645003101963, guid: 448c0d34d78a4044d99f092687f099b5, type: 3}
+  menuButton: {fileID: 2712005127212372500, guid: 3d326981c8136c64690651f8e39f6657, type: 3}
+  questText: {fileID: 2354021008573328046, guid: e27cca53ebb3aed43bc48360006aa91f, type: 3}
+  itemHolder: {fileID: 7664383447559089100, guid: 32730a750b6526941ade0a78c6707dc0, type: 3}
